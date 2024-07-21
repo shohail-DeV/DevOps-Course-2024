@@ -1,0 +1,21 @@
+1. A CI/CD Pipeline can be created using which tool(s)?
+2. What is $?
+3. What is a state file where is it stored?
+4. What is version control? What tools do you know?
+5. How can a private subnet be accessed?
+6. What happens when we lose the pem file created with an EC2 instance? How can we access it?
+7. What is an S3 endpoint?
+8. What is aws STS?
+9. What is aws Systems Manager
+10. What is an IAM Role
+11. What is bootstrapping an instance with User Data
+12. Difference between SAN and NAS?
+13. What is the use of . in Regex?
+14. What is Cloud Trail
+15. What is ufw in linux
+16. What is a Spot Instance?
+17. How to get instance metadata?
+18. What is SSM parameter store in AWS?
+19. What do you mean by an autoscaling group?
+20. What is Route53?
+21. What is an Ingress only Internet Gateway?
